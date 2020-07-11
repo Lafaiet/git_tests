@@ -8,6 +8,6 @@ def something_else():
     pass
 
 def show_division():
-    print(1/0)
+    print(1/1)
 
 show_division()
