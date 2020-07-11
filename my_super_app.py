@@ -5,7 +5,7 @@ def another_method():
     print("this is another method!")
 
 def something_else():
-    pass
+    print('Changes were done remotely')
 
 def show_division():
     print(1/1)
