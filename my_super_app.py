@@ -12,3 +12,6 @@ def show_division():
     print(1/1)
 
 show_division()
+
+def sum_method(a, b):
+    return a+b
