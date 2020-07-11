@@ -2,7 +2,7 @@ def say_something():
     print("Hello git!!!")
 
 def another_method():
-    pass
+    print("this is another method!")
 
 def something_else():
     pass
