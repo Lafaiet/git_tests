@@ -18,3 +18,6 @@ def sum_method(a, b):
 
 def branch1():
     pass
+
+def branch2():
+    pass
