@@ -6,3 +6,8 @@ def another_method():
 
 def something_else():
     pass
+
+def show_division():
+    print(1/0)
+
+show_division()
