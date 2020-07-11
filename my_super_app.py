@@ -1,5 +1,5 @@
 def say_something():
-    print("Hello git!!!")
+    print("Hello git kraken")
 
 def another_method():
     print("this is another method!")
