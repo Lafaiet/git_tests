@@ -3,3 +3,6 @@ def say_something():
 
 def another_method():
     pass
+
+def something_else():
+    pass
